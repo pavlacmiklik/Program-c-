@@ -1,0 +1,12 @@
+12854732;"Server:DP1:S2:SE3.config1.alarm.txt";28.564
+12854740;"Server:DP1:S2:SE3.config1.alarm.txt";29
+12854734;"Server:DP1:S2:SE3.config1.alarm.txt";a
+12854731;"Server:DP1:S2:SE3.config1.alarm.txt";
+12854729;"Server:DP1:S2:SE3.config1.alarm.txt";bvcxz
+12854730;"Server:DP1:S2:SE3.config1.alarm.txt";2600
+12854735;"Server:DP1:S2:SE3.config1.alarm.txt";5.25
+12854737;"Server:DP1:S2:SE3.config1.alarm.txt";ghjkl
+12854736;"Server:DP1:S2:SE3.config1.alarm.txt";w
+12854739;"Server:DP1:S2:SE3.config1.alarm.txt";184.4
+12854733;"Server:DP1:S2:SE3.config1.alarm.txt";brgerg
+12854738;"Server:DP1:S2:SE3.config1.alarm.txt";1000
